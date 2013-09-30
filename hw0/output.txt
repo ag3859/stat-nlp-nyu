@@ -3,4 +3,4 @@ name:
    first: Aditya
    last: Garg
 email: aditya.garg@nyu.edu
-leaderboard: AdityaGarg
+leaderboard: AGarg
