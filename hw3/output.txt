@@ -2120,7 +2120,7 @@ head	NN
 again	RB
 in	IN
 Louisianna	NNP
-..	FW
+..	CD
 
 Former	JJ
 Pastor	NNP
@@ -2672,7 +2672,7 @@ Not	RB
 Hard	RB
 To	TO
 Do	VB
-....	CD
+....	JJ
 IF	IN
 You	PRP
 Know	NNP
@@ -3823,9 +3823,9 @@ out	IN
 there	EX
 today	NN
 jeff	NNS
-....	:
-thank	VBP
-god	VBN
+....	VBD
+thank	VB
+god	NN
 and	CC
 a	DT
 few	JJ
@@ -5596,7 +5596,7 @@ some	DT
 information	NN
 into	IN
 it	PRP
-....	:
+....	VBZ
 
 http://en.wikipedia.org/wiki/Aerocom	NNS
 
@@ -8266,7 +8266,7 @@ a	DT
 whole	JJ
 other	JJ
 topic	NN
-....	:
+....	NNS
 )	)
 
 I	PRP
@@ -20149,7 +20149,7 @@ deterioration	NN
 in	IN
 neonatal	CD
 health	NN
-....	CD
+....	NN
 
 The	DT
 dynamics	NNS
@@ -20433,7 +20433,7 @@ but	CC
 stopped	VBN
 the	DT
 treatments	NNS
-....	IN
+....	VBP
 
 Remember	VB
 the	DT
